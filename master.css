@@ -5,7 +5,7 @@ body{
   font-family: Helvetica, sans-serif;
   text-align: center;
 }
-
+/* ombra sotto testo */
 .shadow{
   box-sizing: border-box;
   margin: 30px 18% 100px;
@@ -43,7 +43,7 @@ box-sizing: border-box;
 margin: 1px;
 }
 
-/* barre colorate */
+/* barre colorate (indicatori di carica) */
 .carica1{
   box-sizing: border-box;
   height: auto;
